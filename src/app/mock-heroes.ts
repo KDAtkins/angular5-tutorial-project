@@ -1,7 +1,6 @@
 import {Hero} from './hero';
 
-// represents a mock remote server
-
+// represents a mock remote/dev server
 export const HEROES: Hero[] = [
     {id: 11, name: 'Mr. Cool'},
     {id: 12, name: 'Narco'},
